@@ -1,0 +1,2 @@
+# kcoin
+Bot
